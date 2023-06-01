@@ -14,10 +14,13 @@ Estou avançando meus conhecimentos em:
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 Para se conectar comigo:
-<br>
-<br>
+
 <a href="https://www.linkedin.com/in/mateus-oling-12241a23b/">
-  <img  align="center" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+  <img  align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
+  
+<a href="https://www.linkedin.com/in/mateus-oling-12241a23b/">
+  <img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+  
 
 
 
