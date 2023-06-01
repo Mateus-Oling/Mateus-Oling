@@ -9,7 +9,7 @@ Sou um programador Front-end com conhecimentos em:
 <br>
 <br>
 
-Estou avançando meus conhecimentos em:
+Estou estudando os conteúdos abaixo:
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
@@ -19,9 +19,14 @@ Para se conectar comigo:
   <img  align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
   
 <a href="https://www.linkedin.com/in/mateus-oling-12241a23b/">
-  <img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
-  
+  <img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+</a>  
 
+  <br>
+  <br>
+  <br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Oling&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 
    
