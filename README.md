@@ -15,10 +15,10 @@ Estou avançando meus conhecimentos em:
 
 Para se conectar comigo:
 <a href="https://www.linkedin.com/in/mateus-oling-12241a23b/">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanaltech.com.br%2Fempresa%2Flinkedin%2F&psig=AOvVaw3R76yOd8GNhminkgTDW48l&ust=1685716396513000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjKiomlov8CFQAAAAAdAAAAABAE">
+  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fcanaltech.com.br%2Fempresa%2Flinkedin%2F&psig=AOvVaw3R76yOd8GNhminkgTDW48l&ust=1685716396513000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOjKiomlov8CFQAAAAAdAAAAABAE](https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png)">
 </a>
 
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Oling)](https://github.com/anuraghazra/github-readme-stats)
+
 
    
 
