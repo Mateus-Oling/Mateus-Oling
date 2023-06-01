@@ -12,14 +12,12 @@ Sou um programador Front-end com conhecimentos em:
 Estou estudando os conteúdos abaixo:
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-
+>
+ <br>
+ 
 Para se conectar comigo:
-
-<a href="https://www.linkedin.com/in/mateus-oling-12241a23b/">
-  <img  align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">
-  
-<a href="https://www.linkedin.com/in/mateus-oling-12241a23b/">
-  <img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
+ <br>
+ - <a href="https://www.linkedin.com/in/mateus-oling-12241a23b/"> <img align="center" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
 </a>  
 
   <br>
