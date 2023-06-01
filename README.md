@@ -18,7 +18,8 @@ Para se conectar comigo:
   <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F174%2F174857.png&tbnid=JdyXos__tp7KHM&vet=12ahUKEwjv4s2pz6D_AhVjupUCHejeDUsQMygAegUIARDTAQ..i&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Flinkedin_174857&docid=vN5M6nzFDECBsM&w=512&h=512&q=icone%20linkedin&ved=2ahUKEwjv4s2pz6D_AhVjupUCHejeDUsQMygAegUIARDTAQ">
 </a>
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Oling)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Oling)](https://github.com/anuraghazra/github-readme-stats)
+
    
 
 <!--
