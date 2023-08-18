@@ -16,36 +16,24 @@
 - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
 <h2>Projetos Realizados 	:computer:</h2>
+
 - Conversor de Moedas <br>
+
 - Jogo de pedra-papel-tesoura melhorada, inspirado na série The Big Bang Theory <br>
+
 - Tela de Cadastro de Usuário <br>
+
 - Landing pages responsivas
 
 <h2>Conecte-se comigo</h2>
- <br>
  <a href="https://www.linkedin.com/in/mateus-oling-12241a23b/"> <img align="center" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
 </a>  Perfil do LinkedIn 
 
-  <br>
-  <br>
-  <br>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Oling&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+<h2>Linguagens mais usadas</h2>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Oling)](https://github.com/anuraghazra/github-readme-stats)
 
 
-   
 
-<!--
-**Mateus-Oling/Mateus-Oling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
