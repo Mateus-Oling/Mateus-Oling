@@ -1,7 +1,7 @@
 <h1 align=center>Olá!<br> Seja bem-vindo ao meu perfil do GitHub! </h1>
 
 <h2>Sobre mim :raising_hand_man:</h2>
-<p>Me chamo Mateus Oling, sou um desenvolvedor e freelancer Front-End com experiência em projetos práticos com situações reais de mercado.</p>
+<p>Me chamo Mateus Oling, sou um desenvolvedor e freelancer Front-End com experiência em projetos práticos com situações reais de mercado. Apesar de já atuar na área como freelancer, estou constantemente aprendendo novas tecnologias e ferramentas, buscando sempre me tornar um profissional ainda mais qualificado.</p>
 
 <h2>Tecnologias</h2>
 
@@ -17,11 +17,13 @@
 
 <h2>Projetos Realizados 	:computer:</h2>
 
-- Conversor de Moedas <br>
+- Conversor de Moedas (JavaScript) <br>
 
-- Jogo de pedra-papel-tesoura melhorada, inspirado na série The Big Bang Theory <br>
+- Jogo de pedra-papel-tesoura melhorada, inspirado na série The Big Bang Theory (JavaScript) <br>
 
-- Tela de Cadastro de Usuário <br>
+- Sorteador de números aleatórios (JavaScript)
+
+- Tela de Cadastro de Usuário (JavaScript + React + Node) <br>
 
 - Landing pages responsivas
 
