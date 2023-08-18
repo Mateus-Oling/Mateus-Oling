@@ -33,7 +33,7 @@
 
 <h2>Linguagens mais usadas</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-Oling)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-oling)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
