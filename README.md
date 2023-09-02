@@ -3,7 +3,7 @@
 <h2>Sobre mim :raising_hand_man:</h2>
 <p>Me chamo Mateus Oling, sou um desenvolvedor e freelancer Front-End com experiência em projetos práticos com situações reais de mercado. Apesar de já atuar na área como freelancer, estou constantemente aprendendo novas tecnologias e ferramentas, buscando sempre me tornar um profissional ainda mais qualificado.</p>
 
-<h2>Tecnologias</h2>
+<h2>Tecnologias dominadas:</h2>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -11,6 +11,7 @@
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 - <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
 <h2>Tecnologias em estudo</h2>
 
