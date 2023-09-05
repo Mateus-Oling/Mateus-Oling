@@ -19,6 +19,8 @@
 
 <h2>Projetos Realizados 	:computer:</h2>
 
+- Blog do Programador (Angular e Typescript)
+
 - Conversor de Moedas (JavaScript) <br>
 
 - Jogo de pedra-papel-tesoura melhorada, inspirado na série The Big Bang Theory (JavaScript) <br>
